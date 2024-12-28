@@ -14,6 +14,10 @@ icon: puzzle-piece-simple
 插件商店（试用版）
 {% endembed %}
 
+{% embed url="https://github.com/Isaaczhr/NcatBotPlugins" %}
+提交你写的插件！不定期检查仓库并加入插件商店中
+{% endembed %}
+
 此方案只是预览版！！！所有要求提在[QQ群](https://qm.qq.com/q/LSdJ4p9UOW)里面
 
 时间有限，如果有不好的地方，欢迎提issue，或者加QQ群交流。
